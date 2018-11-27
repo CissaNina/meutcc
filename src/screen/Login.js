@@ -21,7 +21,7 @@ export default class Login extends React.Component {
             <Imput placeholder="Login"/>
             <Imput placeholder="Senha"/> 
             <Button text='ENTRAR'/>
-            <Texto text='Desenvolvido por:'/>
+            <Texto text='Desenvolvido por:' textColor='white'/>
           </View>
         </View>
         </ImageBackground>
